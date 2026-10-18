@@ -1,7 +1,5 @@
 ## Published Apps
 
-Open-source Windows utilities published on Microsoft Store.
-
 | App | Description | Links |
 | --- | --- | --- |
 | **Numpad9 · 九键输入法** | Offline Chinese Pinyin and English input using a numeric keypad, with candidate selection and paging. | [Source code](https://github.com/shoutoutuoadi325/Numpad9) · [Microsoft Store](https://apps.microsoft.com/detail/9n82m2s3qs4c) |
