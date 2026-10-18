@@ -10,7 +10,7 @@
 ## Selected Open-Source Contributions
 
 <details>
-<summary>View 15 merged pull requests</summary>
+<summary>View merged pull requests</summary>
 
 | Repository | PR | Summary |
 | --- | --- | --- |
