@@ -4,6 +4,7 @@
 | --- | --- | --- |
 | **Numpad9 · 九键输入法** | Offline Chinese Pinyin and English input using a numeric keypad, with candidate selection and paging. | [Source code](https://github.com/shoutoutuoadi325/Numpad9) · [Microsoft Store](https://apps.microsoft.com/detail/9n82m2s3qs4c) |
 | **KeyBridge** | Configurable Command-style shortcuts for Windows, with application-specific settings and local keyboard processing. | [Source code](https://github.com/shoutoutuoadi325/keybridge) · [Microsoft Store](https://apps.microsoft.com/detail/9nk4xxk1jh04) |
+| **Qinglan: Path of Ascension** | A free, offline, single-player 3D xianxia action game for Windows and Apple Silicon macOS, featuring sword combat, Five Elements abilities, and cultivation progression. | [Source code](https://github.com/shoutoutuoadi325/qinglan-wendao) · [Microsoft Store](https://apps.microsoft.com/detail/9nglsm7p5cmb) |
 
 [View all apps on Microsoft Store](https://apps.microsoft.com/search/publisher?name=Zhiqi+Zhang)
 
