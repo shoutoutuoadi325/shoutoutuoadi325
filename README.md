@@ -15,6 +15,7 @@
 
 | Repository | PR | Summary |
 | --- | --- | --- |
+| [vLLM](https://github.com/vllm-project/vllm) | [#55669](https://github.com/vllm-project/vllm/pull/55669) | Fixed missing argument prefixes in Jamba streaming tool calls by tracking arguments already sent to the client, preventing invalid JSON. |
 | [Vite](https://github.com/vitejs/vite) | [#23609](https://github.com/vitejs/vite/pull/23609) | Fixed percent-encoded `srcset` URL resolution in HTML builds, preventing missing assets and double encoding. |
 | [OpenAI Agents SDK](https://github.com/openai/openai-agents-python) | [#4598](https://github.com/openai/openai-agents-python/pull/4598) | Discovered and fixed a Realtime conversation-history regression by preserving server-reported item statuses during retrieval. |
 | [MLX](https://github.com/ml-explore/mlx) | [#4324](https://github.com/ml-explore/mlx/pull/4324) | Fixed `mx.arange` silent saturation and wraparound for out-of-range inferred integers by widening them to `int64`. |
