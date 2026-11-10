@@ -15,6 +15,7 @@
 
 | Repository | PR | Summary |
 | --- | --- | --- |
+| [TensorFlow](https://github.com/tensorflow/tensorflow) | [#129941](https://github.com/tensorflow/tensorflow/pull/129941) | Fixed Jacobian output dtypes for mixed-precision differentiation, restoring non-vectorized computation and correcting zero outputs for disconnected batch gradients. |
 | [OpenClaw](https://github.com/openclaw/openclaw) | [#168375](https://github.com/openclaw/openclaw/pull/168375) | Discovered and fixed `oc-path` recursive-wildcard bugs that skipped direct matches and duplicated results. |
 | [Oh My Zsh](https://github.com/ohmyzsh/ohmyzsh) | [#14161](https://github.com/ohmyzsh/ohmyzsh/pull/14161) | Discovered and fixed Python 3.10+ parsing in `pyuserpaths` using longest-match expansion, restoring user site-packages paths. |
 | [Three.js](https://github.com/mrdoob/three.js) | [#35288](https://github.com/mrdoob/three.js/pull/35288) | Fixed quaternion tangent transforms in glTF cubic spline additive animations, preventing distorted interpolation. |
