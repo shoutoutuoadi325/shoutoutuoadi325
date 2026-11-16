@@ -10,13 +10,17 @@
 
 ## Selected Open-Source Contributions
 
-<details>
-<summary>View all merged pull requests</summary>
-
-| Repository | Stars | PR | Summary |
+| Repository | Stars | Links | Summary |
 | --- | --- | --- | --- |
+| [Linux Kernel](https://github.com/torvalds/linux) | ![Linux Kernel stars](https://img.shields.io/github/stars/torvalds/linux?style=flat&label=stars) | [Fix](https://github.com/torvalds/linux/commit/cab697164b47eecfa2f146024f5d661f99a1a1e7) · [Regression test](https://github.com/torvalds/linux/commit/f734e5deff81aa7f33b16963461f23aec95b9a68) | Fixed bootconfig export for 16-component keys and added regression coverage for the 16/17-component boundary. Both commits shipped in [Linux 7.4-rc3](https://github.com/torvalds/linux/tree/v7.4-rc3). |
 | [TensorFlow](https://github.com/tensorflow/tensorflow) | ![TensorFlow stars](https://img.shields.io/github/stars/tensorflow/tensorflow?style=flat&label=stars) | [#129941](https://github.com/tensorflow/tensorflow/pull/129941) | Fixed Jacobian output dtypes for mixed-precision differentiation, restoring non-vectorized computation and correcting zero outputs for disconnected batch gradients. |
 | [OpenClaw](https://github.com/openclaw/openclaw) | ![OpenClaw stars](https://img.shields.io/github/stars/openclaw/openclaw?style=flat&label=stars) | [#168375](https://github.com/openclaw/openclaw/pull/168375) | Discovered and fixed `oc-path` recursive-wildcard bugs that skipped direct matches and duplicated results. |
+
+<details>
+<summary>View all contributions</summary>
+
+| Repository | Stars | Links | Summary |
+| --- | --- | --- | --- |
 | [VS Code](https://github.com/microsoft/vscode) | ![VS Code stars](https://img.shields.io/github/stars/microsoft/vscode?style=flat&label=stars) | [#345715](https://github.com/microsoft/vscode/pull/345715) | Fixed UTF-16 column counts for supplementary Unicode characters, preventing text corruption in inverse edits and text loss in multi-cursor inline completions. |
 | [MLX](https://github.com/ml-explore/mlx) | ![MLX stars](https://img.shields.io/github/stars/ml-explore/mlx?style=flat&label=stars) | [#4324](https://github.com/ml-explore/mlx/pull/4324) | Fixed `mx.arange` silent saturation and wraparound for out-of-range inferred integers by widening them to `int64`. |
 | [FlashInfer](https://github.com/flashinfer-ai/flashinfer) | ![FlashInfer stars](https://img.shields.io/github/stars/flashinfer-ai/flashinfer?style=flat&label=stars) | [#4401](https://github.com/flashinfer-ai/flashinfer/pull/4401) | Fixed FA2 attention failures on extreme negative logits and prevented NaNs in fully masked rows and empty split-KV states. |
